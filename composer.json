@@ -1,8 +1,8 @@
 {
-  "name": "asm/php-utilities",
+  "name": "mps/php-utilities",
   "description": "php tools with data container, collection objects, yaml config loader and timer",
   "keywords": [],
-  "homepage": "https://github.com/maschmann/php-utilities",
+  "homepage": "https://github.com/Motorpresse/php-utilities",
   "type": "library",
   "license": "MIT",
   "authors": [
